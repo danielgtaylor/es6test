@@ -1,0 +1,19 @@
+{
+  "ecmaFeatures": {
+    "arrowFunctions": true,
+    "blockBindings": true,
+    "classes": true,
+    "forOf": true,
+    "generators": true,
+    "restParams": true,
+    "superInFunctions": true,
+    "templateStrings": true
+  },
+  "env": {
+    "node": true,
+    "mocha": true
+  },
+  "rules": {
+    "quotes": 0
+  }
+}
